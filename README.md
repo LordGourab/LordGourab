@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LordGourab
-- 👀 I’m interested in anything related to technology
-- 🌱 I’m currently learning ...life
-- 💞️ I’m looking to collaborate on ...void
+- 👀 I’m interested in Java 
+- 🌱 I’m currently learning Java Full Stack Development
 - 📫 How to reach me ....https://www.instagram.com/lord_gourab/
 
 <!---
