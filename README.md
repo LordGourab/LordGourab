@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LordGourab
-- 👀 I’m interested in Java 
-- 🌱 I’m currently learning Java Full Stack Development
+- 👀 I’m interested in Java Full Stack Development.
+- 🌱 I’m currently learning a lot of things from building to deployment.
 - 📫 How to reach me ....https://www.instagram.com/lord_gourab/
 
 <!---
