@@ -15,40 +15,46 @@
 
 ### 🛠️ Tech Stack
 
-**Backend**
-- Java
-- Spring Boot
-- REST APIs
-- Hibernate / JPA
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-**Frontend**
-- React
-- HTML, CSS, JavaScript
+#### 🧩 Backend
+- Java  
+- Spring Boot  
+- REST APIs  
+- Hibernate / JPA  
+- Maven  
 
-**Database**
-- MySQL, PostgreSQL
+    </td>
+    <td valign="top" width="50%">
 
-**Tools & Others**
-- Git & GitHub
-- Postman
-- Maven
+#### 🎨 Frontend
+- React  
+- JavaScript  
+- HTML  
+- CSS  
 
----
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
 
-### 🚀 Featured Project
+#### 🗄️ Database
+- MySQL
+- PostgreSQL  
 
-#### 📦 Product Management System
-A full-stack application that supports complete CRUD operations.
+    </td>
+    <td valign="top" width="50%">
 
-**Key Features:**
-- Add, view, update, and delete products
-- RESTful backend using Spring Boot
-- React-based frontend UI
-- API testing using Postman
-- Proper Git & GitHub workflow
+#### ⚙️ Tools & Others
+- Git & GitHub  
+- Postman  
+- VS Code / IntelliJ IDEA  
 
-🔗 **Repository:** https://github.com/LordGourab/Product_Management_System
-
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📊 GitHub Stats
