@@ -57,18 +57,23 @@
 </table>
 ---
 
-### 📊 GitHub Stats
+### 📊 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LordGourab&show_icons=true&theme=default" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" />
 </p>
 
 ---
 
 ### 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/gourab-kunda-roy-10842a1b7/
-- 📧 Email: gourabray007@gmail.com
+<p>
+  <a href="https://www.linkedin.com/in/gourab-kunda-roy-10842a1b7/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="gourabray007@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
