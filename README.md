@@ -57,10 +57,12 @@
 </table>
 ---
 
-### 📊 Most Used Languages
-
+### 📊 Languages & Tools
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordGourab&layout=compact&theme=default" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,mysql,postgres,git,github,docker,aws,flutter" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordGourab&layout=compact&langs_count=8&theme=default" />
 </p>
 
 ---
