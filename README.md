@@ -60,7 +60,7 @@
 ### 📊 Most Used Languages
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordGourab&layout=compact&theme=default" />
 </p>
 
 ---
