@@ -61,9 +61,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,mysql,postgres,git,github,docker" />
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordGourab&layout=compact&langs_count=8&theme=default" />
-</p>
 
 ---
 
